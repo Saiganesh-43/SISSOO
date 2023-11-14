@@ -1,0 +1,115 @@
+*{
+    word-wrap: break-word;
+}
+.signup5{
+    display: flex;
+    width: 60.8125rem;
+    flex-direction: column;
+    justify-content:space-evenly;  
+    align-items: center;
+    margin: 3%;
+    background: rgba(208, 245, 211, 0.1);
+    height:82.75rem;
+    border-radius: 30px;
+    box-shadow: 0px 0px 70.05208587646484px 0px rgba(0, 0, 0, 0.05) inset;
+    margin-left: 15rem;
+}
+
+.logoimage{
+    width: 8.625rem;
+    height: 7.56rem;
+}
+
+.but{
+    width: 46.4375rem;
+    height: 9.3125rem;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 44.59px;
+    font-weight: 500;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button-1{
+background: rgba(107, 164, 248, 1);
+color: rgba(255, 255, 255, 1);
+}
+
+.button-2{
+background: rgba(107, 164, 248, 1);
+color: rgba(255, 255, 255, 1);
+}
+
+.button-3{
+background: rgba(107, 164, 248, 1);
+color: rgba(255, 255, 255, 1);
+}
+
+.button-4{
+    width: 23.905rem;
+    height: 6rem;
+    background: rgba(255, 127, 55, 1);
+    border-radius: 30px;
+    color: rgba(255, 255, 255, 1);
+    font-size:33.63px;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.App{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center; 
+    position: relative;
+    background: rgba(245, 245, 245, 1);
+    max-width: 168.125rem;
+    height: 94.570rem;
+    margin: 0 auto;
+    
+
+}
+.profile{
+    color: rgba(107, 164, 248, 1) ;
+    text-align: center;
+    font-size: 40.95px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.heading{
+    color: rgba(107, 164, 248, 1);
+    text-align: center;
+    font-size: 61.65px;
+    font-weight:600;
+    /* margin-bottom: 0px;
+    margin-top: 0px; */
+    font-family: 'Poppins', sans-serif;
+
+}
+.frame{
+    width: 63.8125rem;
+    height: 60rem ;
+    padding-bottom: 8rem;
+    margin-top: 6rem; 
+}
+
+.imagestack{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.but:hover{
+    background-color:rgb(76, 136, 228); /* New background color on hover */
+    color: #ecf0f1; /* New text color on hover */
+}
+ 
+ 
+ 
+      
+
+  
